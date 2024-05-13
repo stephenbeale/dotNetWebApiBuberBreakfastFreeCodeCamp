@@ -10,3 +10,5 @@ var app = builder.Build();
     app.MapControllers();
     app.Run();
 }
+
+// https://www.youtube.com/watch?v=PmDJIooZjBE&t=761s
